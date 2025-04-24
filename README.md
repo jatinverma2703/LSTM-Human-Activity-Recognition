@@ -667,24 +667,12 @@ I've also published a second paper, with contributors, regarding a [second itera
 }
 ```
 
-## Extra links
+## Author
+Jatin Verma
+- [GitHub](https://github.com/jatinverma2703)
+- [LinkedIn](https://www.linkedin.com/in/jatin-verma-61b14b202)
 
-### Connect with me
 
-- [GitHub](https://github.com/guillaume-chevalier/)
-- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
-- [YouTube](https://www.youtube.com/c/GuillaumeChevalier)
-
-### Liked this project? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/stargazers), [fork](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/network/members) and share the love!
-
-This activity recognition project has been seen in:
-
-- [Hacker News 1st page](https://news.ycombinator.com/item?id=13049143)
-- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow#tutorials)
-- [TensorFlow World](https://github.com/astorfi/TensorFlow-World#some-useful-tutorials)
-- And more.
-
----
 
 
 
